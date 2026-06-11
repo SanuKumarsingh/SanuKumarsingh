@@ -1,4 +1,4 @@
-# Hey, I'm Sanu Kumar Singh 👋
+# Hey, I'm Sanu Kumar👋
 
 Developer from Greater Noida, India — building projects in Web Development and Python.
 
