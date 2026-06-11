@@ -29,8 +29,7 @@ Developer from Greater Noida, India — building projects in Web Development and
 
 
 ## 🔗 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-SanuKumarsingh-181717?style=flat&logo=github)](https://github.com/SanuKumarsingh)
+[![Gmail](https://img.shields.io/badge/Gmail-sanusingh22032004-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanusingh22032004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanu%20Kumar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanu-kumar-515479320)
 
 ---
