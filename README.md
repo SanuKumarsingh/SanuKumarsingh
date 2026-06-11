@@ -27,4 +27,11 @@ Developer from Greater Noida, India — building projects in Web Development and
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanuKumarsingh&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
+
+## 🔗 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-SanuKumarsingh-181717?style=flat&logo=github)](https://github.com/SanuKumarsingh)
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my projects and drop a ⭐ if you like them.*
