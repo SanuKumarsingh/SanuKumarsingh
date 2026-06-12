@@ -10,7 +10,11 @@ Developer from Greater Noida, India — building projects in Web Development and
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ---
 
 ## 📂 Projects
@@ -24,6 +28,12 @@ Developer from Greater Noida, India — building projects in Web Development and
 - [To-Do List App](https://github.com/SanuKumarsingh/CodSoft_task1) — CLI task manager with JSON storage
 - [Calculator](https://github.com/SanuKumarsingh/CodSoft_Task2) — Arithmetic calculator using match-case
 - [Password Generator](https://github.com/SanuKumarsingh/CodSoft_Task3) — Random password generator with validation
+
+**Personal Projects**
+- [Investment Calculator](https://github.com/SanuKumarsingh/Investment-Caculator) — React app for year-by-year investment growth
+- [Food Ordering App](https://github.com/SanuKumarsingh/Food-ordering-app) — Full-stack app with React frontend & Express backend
+- [Quiz App](https://github.com/SanuKumarsingh/Quiz-App) — Timed React quiz with live feedback & results summary
+- [Blog Website](https://github.com/SanuKumarsingh/Blog-Website) — Django blog with comments, tags & read-later feature
 
 ---
 
